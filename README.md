@@ -12,6 +12,7 @@
 - [x] Factory Method
 - [x] Abstract Factory (fine-tune)
 - [x] Strategy
+- [x] State
 
 ### How to run (cmd)
 
