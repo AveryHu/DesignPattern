@@ -1,0 +1,6 @@
+language: csharp
+mono: none
+dotnet: 2.1.521
+script:
+ - dotnet restore
+ - dotnet build DesignPattern.sln
