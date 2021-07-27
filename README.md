@@ -12,18 +12,26 @@
 
 ### Implementation
 
+Creational patterns
+- [x] Singleton
 - [x] Simple Factory
 - [x] Factory Method
 - [x] Abstract Factory (fine-tune)
+
+Structural patterns
+
+Behavioural patterns
 - [x] Strategy
 - [x] State
-- [x] Singleton
+
 
 ### How to run (cmd)
 
 Build all solution :  
-	dotnet build solutionname.sln  
+```dotnet build solutionname.sln```  
+
 Build a single project :  
-	dotnet build projectname.csproj  
+```dotnet build projectname.csproj```  
+
 Run a project :  
-	dotnet run --project projectname.csproj
+```dotnet run --project projectname.csproj```
