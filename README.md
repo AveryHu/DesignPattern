@@ -17,8 +17,13 @@
 - [x] Abstract Factory (fine-tune)
 - [x] Strategy
 - [x] State
+- [x] Singleton
 
 ### How to run (cmd)
 
+Build all solution :  
+	dotnet build solutionname.sln  
+Build a single project :  
 	dotnet build projectname.csproj  
+Run a project :  
 	dotnet run --project projectname.csproj
