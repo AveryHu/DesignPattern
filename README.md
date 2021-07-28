@@ -5,27 +5,28 @@
 | :-----------:  | :-----------: |
 | [![Build Status](https://travis-ci.com/AveryHu/DesignPattern.svg?branch=main)](https://travis-ci.com/AveryHu/DesignPattern)     | [![Build Status](https://travis-ci.com/AveryHu/DesignPattern.svg?branch=dev)](https://travis-ci.com/AveryHu/DesignPattern)     |
 
-### Developement environment
+## Developement environment
 
 *Visual Studio Code (1.58.2)*  
 *.NET Core (2.1.521)*
 
-### Implementation
+## Implementation
 
-Creational patterns
-- [x] Singleton
-- [x] Simple Factory
-- [x] Factory Method
-- [x] Abstract Factory (fine-tune)
+##### *Creational patterns*
+  - [x] Singleton
+  - [x] Simple Factory
+  - [x] Factory Method
+  - [x] Abstract Factory (fine-tune)
 
-Structural patterns
+##### *Structural patterns*
+  - [x] Decorator
 
-Behavioural patterns
-- [x] Strategy
-- [x] State
+##### *Behavioural patterns*
+  - [x] Strategy
+  - [x] State
 
 
-### How to run (cmd)
+## How to run (cmd)
 
 Build all solution :  
 ```dotnet build solutionname.sln```  
