@@ -20,6 +20,7 @@
 
 ##### *Structural patterns*
   - [x] Decorator
+  - [x] Bridge
 
 ##### *Behavioural patterns*
   - [x] Strategy
