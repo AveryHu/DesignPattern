@@ -6,6 +6,9 @@ namespace DecoratorPattern
     {
         static void Main(string[] args)
         {
+            // Using Decorator pattern, it's easy to add any action with any order in run-time.
+            // Avoid to add too many features in the top-level class. 
+            // However, it might have a lot of Decorators.
             RunDecorator();
         }
 
