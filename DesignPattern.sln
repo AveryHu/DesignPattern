@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "Decorat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "BridgePattern\BridgePattern.csproj", "{5BD0683B-D518-44F8-917C-765BF7B68E24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{C84141AF-412F-4D07-B11E-C28B7399A189}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,5 +102,17 @@ Global
 		{5BD0683B-D518-44F8-917C-765BF7B68E24}.Release|x64.Build.0 = Release|Any CPU
 		{5BD0683B-D518-44F8-917C-765BF7B68E24}.Release|x86.ActiveCfg = Release|Any CPU
 		{5BD0683B-D518-44F8-917C-765BF7B68E24}.Release|x86.Build.0 = Release|Any CPU
+		{C84141AF-412F-4D07-B11E-C28B7399A189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84141AF-412F-4D07-B11E-C28B7399A189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84141AF-412F-4D07-B11E-C28B7399A189}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C84141AF-412F-4D07-B11E-C28B7399A189}.Debug|x64.Build.0 = Debug|Any CPU
+		{C84141AF-412F-4D07-B11E-C28B7399A189}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C84141AF-412F-4D07-B11E-C28B7399A189}.Debug|x86.Build.0 = Debug|Any CPU
+		{C84141AF-412F-4D07-B11E-C28B7399A189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84141AF-412F-4D07-B11E-C28B7399A189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C84141AF-412F-4D07-B11E-C28B7399A189}.Release|x64.ActiveCfg = Release|Any CPU
+		{C84141AF-412F-4D07-B11E-C28B7399A189}.Release|x64.Build.0 = Release|Any CPU
+		{C84141AF-412F-4D07-B11E-C28B7399A189}.Release|x86.ActiveCfg = Release|Any CPU
+		{C84141AF-412F-4D07-B11E-C28B7399A189}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

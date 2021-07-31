@@ -25,11 +25,11 @@
 ##### *Behavioural patterns*
   - [x] Strategy
   - [x] State
-
+  - [x] Observer
 
 ## How to run (cmd)
 
-Build all solution :  
+Build the solution :  
 ```dotnet build solutionname.sln```  
 
 Build a single project :  
