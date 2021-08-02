@@ -17,6 +17,7 @@
   - [x] Simple Factory
   - [x] Factory Method
   - [x] Abstract Factory (fine-tune)
+  - [x] Builder
 
 ##### *Structural patterns*
   - [x] Decorator
