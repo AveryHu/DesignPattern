@@ -22,6 +22,7 @@
 ##### *Structural patterns*
   - [x] Decorator
   - [x] Bridge
+  - [x] Adapter
 
 ##### *Behavioural patterns*
   - [x] Strategy
