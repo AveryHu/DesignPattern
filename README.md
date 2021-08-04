@@ -24,6 +24,7 @@
   - [x] Decorator
   - [x] Bridge
   - [x] Adapter
+  - [x] Composite
 
 ##### *Behavioural patterns*
   - [x] Strategy
