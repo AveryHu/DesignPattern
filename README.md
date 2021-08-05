@@ -25,6 +25,7 @@
   - [x] Bridge
   - [x] Adapter
   - [x] Composite
+  - [x] Facade
 
 ##### *Behavioural patterns*
   - [x] Strategy
