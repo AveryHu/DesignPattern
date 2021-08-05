@@ -26,6 +26,7 @@
   - [x] Adapter
   - [x] Composite
   - [x] Facade
+  - [x] Flyweight
 
 ##### *Behavioural patterns*
   - [x] Strategy
