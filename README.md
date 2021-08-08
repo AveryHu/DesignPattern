@@ -32,6 +32,7 @@
   - [x] Strategy
   - [x] State
   - [x] Observer
+  - [x] Chain Of Responsibility
 
 ## How to run (cmd)
 
