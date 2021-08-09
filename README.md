@@ -27,6 +27,7 @@
   - [x] Composite
   - [x] Facade
   - [x] Flyweight
+  - [x] Proxy
 
 ##### *Behavioural patterns*
   - [x] Strategy
