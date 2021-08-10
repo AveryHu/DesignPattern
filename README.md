@@ -34,6 +34,7 @@
   - [x] State
   - [x] Observer
   - [x] Chain Of Responsibility
+  - [x] Iterator
 
 ## How to run (cmd)
 

@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPatter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{0D5A162A-6246-4070-BEEE-EA064EA8A991}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "IteratorPattern\IteratorPattern.csproj", "{39F557C7-AB9F-47C0-AA8C-56F373988402}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -226,5 +228,17 @@ Global
 		{0D5A162A-6246-4070-BEEE-EA064EA8A991}.Release|x64.Build.0 = Release|Any CPU
 		{0D5A162A-6246-4070-BEEE-EA064EA8A991}.Release|x86.ActiveCfg = Release|Any CPU
 		{0D5A162A-6246-4070-BEEE-EA064EA8A991}.Release|x86.Build.0 = Release|Any CPU
+		{39F557C7-AB9F-47C0-AA8C-56F373988402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F557C7-AB9F-47C0-AA8C-56F373988402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F557C7-AB9F-47C0-AA8C-56F373988402}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{39F557C7-AB9F-47C0-AA8C-56F373988402}.Debug|x64.Build.0 = Debug|Any CPU
+		{39F557C7-AB9F-47C0-AA8C-56F373988402}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{39F557C7-AB9F-47C0-AA8C-56F373988402}.Debug|x86.Build.0 = Debug|Any CPU
+		{39F557C7-AB9F-47C0-AA8C-56F373988402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F557C7-AB9F-47C0-AA8C-56F373988402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F557C7-AB9F-47C0-AA8C-56F373988402}.Release|x64.ActiveCfg = Release|Any CPU
+		{39F557C7-AB9F-47C0-AA8C-56F373988402}.Release|x64.Build.0 = Release|Any CPU
+		{39F557C7-AB9F-47C0-AA8C-56F373988402}.Release|x86.ActiveCfg = Release|Any CPU
+		{39F557C7-AB9F-47C0-AA8C-56F373988402}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
