@@ -35,6 +35,7 @@
   - [x] Observer
   - [x] Chain Of Responsibility
   - [x] Iterator
+  - [x] Command
 
 ## How to run (cmd)
 
