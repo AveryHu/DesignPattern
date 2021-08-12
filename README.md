@@ -36,6 +36,7 @@
   - [x] Chain Of Responsibility
   - [x] Iterator
   - [x] Command
+  - [x] Mediator
 
 ## How to run (cmd)
 
