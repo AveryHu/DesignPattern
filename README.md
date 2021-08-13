@@ -37,6 +37,7 @@
   - [x] Iterator
   - [x] Command
   - [x] Mediator
+  - [x] Interpreter
 
 ## How to run (cmd)
 
