@@ -38,6 +38,7 @@
   - [x] Command
   - [x] Mediator
   - [x] Interpreter
+  - [x] Memento
 
 ## How to run (cmd)
 
