@@ -39,6 +39,7 @@
   - [x] Mediator
   - [x] Interpreter
   - [x] Memento
+  - [x] Template Method
 
 ## How to run (cmd)
 

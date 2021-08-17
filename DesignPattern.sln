@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpreterPattern", "Inter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoPattern", "MementoPattern\MementoPattern.csproj", "{C0A36053-5BA4-49FE-9C6A-2E90404DAABB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodPattern", "TemplateMethodPattern\TemplateMethodPattern.csproj", "{257E4EC1-E7AA-437C-9E20-261A24139A5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -296,5 +298,17 @@ Global
 		{C0A36053-5BA4-49FE-9C6A-2E90404DAABB}.Release|x64.Build.0 = Release|Any CPU
 		{C0A36053-5BA4-49FE-9C6A-2E90404DAABB}.Release|x86.ActiveCfg = Release|Any CPU
 		{C0A36053-5BA4-49FE-9C6A-2E90404DAABB}.Release|x86.Build.0 = Release|Any CPU
+		{257E4EC1-E7AA-437C-9E20-261A24139A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257E4EC1-E7AA-437C-9E20-261A24139A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257E4EC1-E7AA-437C-9E20-261A24139A5C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{257E4EC1-E7AA-437C-9E20-261A24139A5C}.Debug|x64.Build.0 = Debug|Any CPU
+		{257E4EC1-E7AA-437C-9E20-261A24139A5C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{257E4EC1-E7AA-437C-9E20-261A24139A5C}.Debug|x86.Build.0 = Debug|Any CPU
+		{257E4EC1-E7AA-437C-9E20-261A24139A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257E4EC1-E7AA-437C-9E20-261A24139A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{257E4EC1-E7AA-437C-9E20-261A24139A5C}.Release|x64.ActiveCfg = Release|Any CPU
+		{257E4EC1-E7AA-437C-9E20-261A24139A5C}.Release|x64.Build.0 = Release|Any CPU
+		{257E4EC1-E7AA-437C-9E20-261A24139A5C}.Release|x86.ActiveCfg = Release|Any CPU
+		{257E4EC1-E7AA-437C-9E20-261A24139A5C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
