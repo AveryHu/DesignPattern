@@ -40,6 +40,7 @@
   - [x] Interpreter
   - [x] Memento
   - [x] Template Method
+  - [x] Visitor
 
 ## How to run (cmd)
 
